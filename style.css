@@ -40,12 +40,57 @@ a{
     font-weight: 700;
     color: white;  
 }
+#mission{
+    margin-bottom: 100px;
+}
 #mission h1{
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 #mission .three{
     display: flex;
     margin: 10px;
+    
+}
+#mission .three-1{
+    background-color: rgba(195, 230, 218, 0.767);
+    border-radius: 20px;
+    margin-left: 100PX;
+    margin-right: 20PX;
+    padding: 30PX;
+}
+#mission .three-2 {
+    background-color: rgba(197, 139, 139, 0.664);
+    border-radius: 20px;
+    margin-left: 20PX;
+    margin-right: 20PX;
+    padding: 30PX;
+}
+#mission .three-3 {
+    background-color: rgba(223, 206, 160, 0.596);
+    border-radius: 20px;
+    margin-left: 20PX;
+    margin-right: 100PX;
+    padding: 30PX;
+}
+.three-img img {
+    width: 250px;
+}
+#develop{
+    display: flex;
+    margin: 0 100px 100px 100px ;
+}
+#develop .half-width img{
+    width: 600px;
+}
+#develop .half-width{
+    width: 50%;
+}
+#develop .half-width p{
+    padding-bottom: 40px;
+}
+#develop .half-width h1 {
+    font-size: 40px;
+    line-height: 30px;
 }
