@@ -51,6 +51,7 @@ a{
 #mission .three{
     display: flex;
     margin: 10px;
+    width: 100%;
     
 }
 #mission .three-1{
@@ -76,6 +77,7 @@ a{
 }
 .three-img img {
     width: 250px;
+    height: 250px;
 }
 #develop{
     display: flex;
@@ -83,6 +85,7 @@ a{
 }
  .half-width img{
     width: 600px;
+    
 }
  .half-width{
     width: 50%;
@@ -101,6 +104,7 @@ a{
 #global .half-width img {
     padding-left: 90px;
 }
+
 footer{
     text-align: center;
     background-color: black;
